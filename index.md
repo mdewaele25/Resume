@@ -1,2 +1,2 @@
-![Resume](./Miles_DeWaele_Resume.pdf)
-<embed src="./Miles_DeWaele_Resume.pdf" type="application/pdf">
+<object data="./Miles_DeWaele_Resume.pdf" type="application/pdf" width="100%">
+</object>
